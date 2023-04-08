@@ -283,3 +283,50 @@ $("#bookingForm").submit(function(event) {
         }
     });
 });
+
+// Define function to set the cookie with the name "email" and the value of the email address
+function setEmailCookie(email, days) {
+// Create a new Date object and add the number of days specified to it
+const date = new Date();
+date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+// Convert the date to UTC format and add it to the cookie as an expiration time
+const expires = "expires="+ date.toUTCString();
+// Set the cookie with the name "email", the value of the email address, the expiration time, and a path
+document.cookie = "email=" + email + ";" + expires + ";path=/";
+}
+
+// Define function to get the cookie value of the email
+function getEmailCookie() {
+// Set the name of the cookie to "email"
+const name = "email=";
+// Decode the cookie and split it into an array of separate cookies
+const decodedCookie = decodeURIComponent(document.cookie);
+const cookieArray = decodedCookie.split(';');
+// Loop through the array of cookies and find the one with the name "email"
+for(let i = 0; i < cookieArray.length; i++) {
+let cookie = cookieArray[i];
+while (cookie.charAt(0) == ' ') {
+cookie = cookie.substring(1);
+}
+if (cookie.indexOf(name) == 0) {
+// Return the value of the "email" cookie
+return cookie.substring(name.length, cookie.length);
+}
+}
+// If the "email" cookie is not found, return an empty string
+return "";
+}
+
+// Example usage: set email cookie to "example@email.com" for 30 days
+setEmailCookie("example@email.com", 30);
+
+// Example usage: get the email cookie value and display it on the page
+const email = getEmailCookie();
+if (email != "") {
+// Display the value of the "email" cookie on the page
+document.getElementById("email-display").innerHTML = "Email: " + email;
+} else {
+// If the "email" cookie is not found, prompt the user to enter their email address and store it in a cookie
+const promptEmail = prompt("Please enter your email address:");
+setEmailCookie(promptEmail, 30);
+}
