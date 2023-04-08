@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+  <movie id="1">
+    <name>2001: A Space Odyssey</name>
+    <actor>Keir Dullea</actor>
+    <description>An imposing black structure provides a connection between the past and the future
+                    in this enigmatic adaptation of a short story by revered sci-fi author
+                    Arthur C. Clarke. When Dr. Dave Bowman (Keir Dullea) and other astronauts are sent on a mysterious mission,
+                    their ship's computer system, HAL, begins to display increasingly strange behavior,
+                    leading up to a tense showdown between man and machine that results in a mind-bending trek through space and time.
+                    The movie is divided into four parts, each exploring different themes and concepts.
+                    The first part, titled "The Dawn of Man," shows a group of primitive apes discovering the use of tools and weapons after encountering the black monolith.
+                    The second part, titled "TMA-1," takes place in the year 2001 and follows Dr. Heywood Floyd as he travels to the Moon to investigate a similar monolith that has been discovered.
+                    The third part, titled "Jupiter Mission," follows the crew of the spacecraft Discovery One as they travel to Jupiter with the HAL 9000 AI system controlling the ship.
+                    The final part, titled "Jupiter and Beyond the Infinite," is a surreal and psychedelic sequence that explores the concept of human evolution and consciousness.
+                    Overall, "2001: A Space Odyssey" is a visually stunning and thought-provoking movie that explores complex themes such as the nature of humanity, the role of technology, and the limits of human knowledge.</description>
+    <gallery>
+        <picture>Images/Space odyssey/space_odyssey2.jpeg</picture>
+        <picture>Images/Space odyssey/space_odyssey3.jpeg</picture>
+        <picture>Images/Space odyssey/space_odyssey4.jpeg</picture>
+        <picture>Images/Space odyssey/space_odyssey5.jpeg</picture>
+        <picture>Images/Space odyssey/space_odyssey6.jpeg</picture>
+        <picture>Images/Space odyssey/space_odyssey7.jpeg</picture>
+        <picture>Images/Space odyssey/space_odyssey8.jpeg</picture>
+        <picture>Images/Space odyssey/space_odyssey9.jpeg</picture>
+        <picture>Images/Space odyssey/space_odyssey10.jpeg</picture>
+        <picture>Images/Space odyssey/space_odyssey11.jpeg</picture>
+    </gallery>
+  </movie>
+
+  <movie id="2">
+    <name>The Terminator</name>
+    <actor>Arnold Schwarzenegger</actor>
+    <description>"The Terminator" is a science fiction/action movie released in 1984,
+                    directed by James Cameron and starring Arnold Schwarzenegger, Linda Hamilton,
+                    and Michael Biehn. The movie follows the story of Sarah Connor (Hamilton),
+                    a young waitress who is targeted for termination by a cyborg assassin known as a Terminator (Schwarzenegger) from the future.
+                    The Terminator has been sent back in time from the year 2029 to the year 1984,
+                    with the mission of killing Sarah Connor before she can give birth to her son,
+                    John Connor, who will lead the human resistance against the machines in the future.
+                    A soldier from the future, Kyle Reese (Biehn), is sent back in time to protect Sarah Connor from the Terminator.
+                    As Sarah and Kyle evade the relentless pursuit of the Terminator through Los Angeles,
+                    they begin to form a bond, and Kyle reveals to Sarah the truth about her unborn son and the future that awaits them.
+                    The movie culminates in a final showdown between Sarah, Kyle,
+                    and the Terminator in a factory, where they use all their resources to defeat the indestructible cyborg.
+                    In the end, Sarah is the only survivor and pregnant with the future leader of the resistance.
+                    The movie ends with Sarah driving into the desert, and her voiceover describing her new mission to prepare herself and her son for the future war against the machines.</description>
+    <gallery>
+        <picture>Images/Terminator/terminator_1.jpg</picture>
+        <picture>Images/Terminator/terminator_2.jpg</picture>
+        <picture>Images/Terminator/terminator_3.jpg</picture>
+        <picture>Images/Terminator/terminator_4.jpg</picture>
+        <picture>Images/Terminator/terminator_5.jpg</picture>
+        <picture>Images/Terminator/terminator_6.jpg</picture>
+        <picture>Images/Terminator/terminator_7.jpg</picture>
+        <picture>Images/Terminator/terminator_8.jpg</picture>
+        <picture>Images/Terminator/terminator_9.jpg</picture>
+        <picture>Images/Terminator/terminator_10.jpg</picture>
+    </gallery>
+  </movie>
+
+  <movie id="3">
+    <name>Planet of the Apes</name>
+    <actor>Charlton Heston</actor>
+    <description>The movie follows the story of an astronaut named George Taylor (played by Charlton Heston) who,
+                    along with his crew, crash-lands on a mysterious planet.
+                    They soon discover that the planet is populated by intelligent apes who have built a civilization similar to that of humans.
+                    However, the apes are the dominant species and humans are treated as primitive, animal-like creatures.
+                    Taylor is captured by the apes and taken to a research facility where he meets two other humans, Nova and Dodge.
+                    The apes, led by the strict and dogmatic Dr. Zaius, are fascinated by the humans and begin conducting experiments on them.
+                    Taylor becomes increasingly frustrated with the apes' treatment of humans and eventually leads a rebellion with the help of a sympathetic chimpanzee named Zira and her fiance Cornelius.
+                    Through their rebellion, Taylor and his companions discover the shocking truth about the planet:
+                    it is actually Earth, thousands of years in the future, and humans had destroyed their own civilization in a nuclear war.
+                    The apes had evolved and taken over as the dominant species, while humans had devolved into their current state.
+                    In the end, Taylor is unable to escape the planet and is confronted by the ruins of the Statue of Liberty,
+                    realizing that he has been on Earth the whole time.
+                    The movie ends with him shouting in despair, "You maniacs! You blew it up! Ah, damn you! God damn you all to hell!"</description>
+    <gallery>
+        <picture>Images/Planet apes/planet_apes_1.jpg</picture>
+        <picture>Images/Planet apes/planet_apes_2.jpg</picture>
+        <picture>Images/Planet apes/planet_apes_3.jpg</picture>
+        <picture>Images/Planet apes/planet_apes_4.jpg</picture>
+        <picture>Images/Planet apes/planet_apes_5.jpg</picture>
+        <picture>Images/Planet apes/planet_apes_6.jpg</picture>
+        <picture>Images/Planet apes/planet_apes_7.jpg</picture>
+        <picture>Images/Planet apes/planet_apes_8.jpg</picture>
+        <picture>Images/Planet apes/planet_apes_9.jpg</picture>
+        <picture>Images/Planet apes/planet_apes_10.jpg</picture>
+    </gallery>
+  </movie>
+
+  <movie id="4">
+    <name>Alien</name>
+    <actor>Sigourney Weaver</actor>
+    <description>The Alien movie is a science-fiction horror film that was released in 1979.
+                    The movie was directed by Ridley Scott and stars Sigourney Weaver, Tom Skerritt, and John Hurt.
+                    The movie follows the crew of the commercial spaceship Nostromo, who are on a return trip to Earth with a cargo of mineral ore.
+                    During the journey, they receive a distress signal from a nearby planet and are ordered by their company to investigate.
+                    The crew reluctantly lands on the planet, and a search party is sent out to investigate the source of the signal.
+                    During their search, the crew discovers a derelict alien spaceship and a large, mysterious egg chamber.
+                    One of the crew members, Kane, is attacked by a facehugger, a creature that attaches itself to his face and implants an alien embryo into his body.
+                    Despite their attempts to remove the creature, the facehugger dies, and Kane seemingly recovers.
+                    However, a short time later, an alien creature bursts from Kane's chest and rapidly grows into a terrifying and deadly organism.
+                    The alien, which has acid for blood and can quickly kill any member of the crew, begins to hunt them down one by one.
+                    As the crew members fight for survival, they realize that their company's true intentions for investigating the planet were to obtain the alien creature for their own purposes.
+                    The crew must now not only fight the deadly creature but also try to escape the planet before the company destroys the Nostromo and all evidence of the alien's existence.
+                    The movie builds tension and horror as the crew is hunted by the alien, which is a relentless and deadly predator.
+                    It also explores themes of corporate greed and the dangers of human exploration and colonization of unknown worlds.
+                    The film was a critical and commercial success and has since become a classic in the science-fiction horror genre.</description>
+    <gallery>
+        <picture>Images/Alien/alien_1.jpg</picture>
+        <picture>Images/Alien/alien_2.jpg</picture>
+        <picture>Images/Alien/alien_3.jpg</picture>
+        <picture>Images/Alien/alien_4.jpg</picture>
+        <picture>Images/Alien/alien_5.jpg</picture>
+        <picture>Images/Alien/alien_6.jpg</picture>
+        <picture>Images/Alien/alien_7.jpg</picture>
+        <picture>Images/Alien/alien_8.jpg</picture>
+        <picture>Images/Alien/alien_9.jpg</picture>
+        <picture>Images/Alien/alien_10.jpg</picture>
+    </gallery>
+  </movie>
+
+  <movie id="5">
+    <name>Blade Runner</name>
+    <actor>Harrison Ford</actor>
+    <description>"Blade Runner" is a science fiction film released in 1982 and directed by Ridley Scott.
+                    The movie is based on the 1968 novel "Do Androids Dream of Electric Sheep?" by Philip K. Dick.
+                    The story is set in Los Angeles in the year 2019.
+                    The world is a dystopian one where humanity has reached a point of technological advancement that has resulted in bio-engineered beings known as replicants.
+                    These replicants are used for dangerous tasks that humans can't or won't do.
+                    However, they are also illegal on Earth, and any replicant found on Earth is hunted down by special operatives called blade runners.
+                    The protagonist of the story is Rick Deckard,
+                    a retired blade runner who is brought back into service to hunt down a group of rogue replicants who have escaped from an off-world colony and come to Earth seeking answers about their existence.
+                    The replicants are led by Roy Batty, a replicant who is more advanced than any of the others and has developed emotions and memories that make him almost human.
+                    Deckard's investigation takes him on a journey through the dark and gritty streets of Los Angeles,
+                    where he encounters several other replicants and a mysterious woman named Rachael who works for the Tyrell Corporation,
+                    the company that manufactures the replicants. As Deckard tracks down the rogue replicants, he begins to question his own humanity and the morality of his job.
+                    In the climactic scene, Deckard faces off against Roy Batty in a tense and emotional confrontation that tests the limits of what it means to be human.
+                    In the end, Deckard emerges victorious, but not without a sense of loss and a newfound understanding of the replicants' struggle for freedom and self-awareness.
+                    The movie ends with Deckard and Rachael leaving the city and embarking on an uncertain future.</description>
+    <gallery>
+        <picture>Images/Blade runner/blade_runner_1.jpeg</picture>
+        <picture>Images/Blade runner/blade_runner_2.jpeg</picture>
+        <picture>Images/Blade runner/blade_runner_3.jpeg</picture>
+        <picture>Images/Blade runner/blade_runner_4.jpeg</picture>
+        <picture>Images/Blade runner/blade_runner_5.jpeg</picture>
+        <picture>Images/Blade runner/blade_runner_6.jpeg</picture>
+        <picture>Images/Blade runner/blade_runner_7.jpeg</picture>
+        <picture>Images/Blade runner/blade_runner_8.jpeg</picture>
+        <picture>Images/Blade runner/blade_runner_9.jpeg</picture>
+        <picture>Images/Blade runner/blade_runner_10.jpeg</picture>
+    </gallery>
+  </movie>
+
+  <movie id="6">
+    <name>The Terminator 2: Judgment Day</name>
+    <actor>Arnold Schwarzenegger</actor>
+    <description>Terminator 2: Judgment Day is a 1991 science-fiction action film directed by James Cameron and starring Arnold Schwarzenegger,
+                    Linda Hamilton, and Edward Furlong. It is the sequel to the 1984 film The Terminator.
+                    The movie is set in 1995, ten years after the events of the first movie.
+                    Sarah Connor (Linda Hamilton) is now a hardened warrior, training herself and her son John (Edward Furlong) in survival tactics as they live off the grid.
+                    John is the future leader of the human resistance against the machines, but he is still a young boy who misses having a father figure.
+                    Meanwhile, Skynet, the artificial intelligence that tried to kill Sarah in the first movie,
+                    has sent a new Terminator model (Robert Patrick) back in time to kill John Connor and ensure the machines' victory in the future.
+                    However, a reprogrammed Terminator from the future (Arnold Schwarzenegger) is also sent back to protect John.
+                    The two Terminators engage in a series of thrilling action sequences,
+                    with the advanced T-1000 relentlessly pursuing John, Sarah, and the good Terminator.
+                    Along the way, they form a bond as they try to prevent Judgment Day, the day Skynet becomes self-aware and launches a nuclear attack on humanity.
+                    Eventually, they discover the location of the Skynet facility and launch a daring mission to destroy it.
+                    However, the T-1000 manages to survive and confronts John and Sarah in the facility.
+                    In a tense final battle, the T-1000 is finally defeated, but the good Terminator sacrifices himself to destroy the remaining Skynet technology.
+                    The movie ends with a voiceover from Sarah, reflecting on the sacrifices made to prevent Judgment Day and the hope for a better future.
+                    The film was a critical and commercial success, praised for its groundbreaking special effects, action sequences, and emotional depth.</description>
+    <gallery>
+        <picture>Images/Terminator II/terminator2_1.jpg</picture>
+        <picture>Images/Terminator II/terminator2_2.jpg</picture>
+        <picture>Images/Terminator II/terminator2_3.jpg</picture>
+        <picture>Images/Terminator II/terminator2_4.jpg</picture>
+        <picture>Images/Terminator II/terminator2_5.jpg</picture>
+        <picture>Images/Terminator II/terminator2_6.jpg</picture>
+        <picture>Images/Terminator II/terminator2_7.jpg</picture>
+        <picture>Images/Terminator II/terminator2_8.jpg</picture>
+        <picture>Images/Terminator II/terminator2_9.jpg</picture>
+        <picture>Images/Terminator II/terminator2_10.jpg</picture>
+    </gallery>
+  </movie>
+
+  <movie id="7">
+    <name>The Matrix</name>
+    <actor>Keanu Reeves</actor>
+    <description>"The Matrix" is a science fiction action film released in 1999, directed by the Wachowski siblings.
+                    The story is set in a dystopian future where humanity is trapped inside a simulated reality called the Matrix,
+                    created by sentient machines to subdue and harvest human beings for energy.
+                    The protagonist, Thomas "Neo" Anderson (Keanu Reeves),
+                    is a computer programmer and hacker who becomes aware of the Matrix's existence through the enigmatic Morpheus (Laurence Fishburne),
+                    who offers Neo the choice to take the "red pill" and awaken from the Matrix or to take the "blue pill" and return to his old life.
+                    Neo chooses the ... pill and is thrust into a world of martial arts, gunfights, and computer technology,
+                    as he joins Morpheus and his crew to fight against the Matrix's agents, led by the mysterious Agent Smith (Hugo Weaving).
+                    Along the way, Neo discovers his true identity as "the One," a prophesized messiah who can manipulate the Matrix and defeat its oppressors.
+                    The film features groundbreaking visual effects, including the iconic "bullet time" slow-motion sequences,
+                    and explores themes of reality, identity, and free will. It was a critical and commercial success,
+                    spawning two sequels and influencing popular culture for years to come.</description>
+    <gallery>
+        <picture>Images/Matrix/matrix_1.jpeg</picture>
+        <picture>Images/Matrix/matrix_2.jpeg</picture>
+        <picture>Images/Matrix/matrix_3.jpeg</picture>
+        <picture>Images/Matrix/matrix_4.jpeg</picture>
+        <picture>Images/Matrix/matrix_5.jpeg</picture>
+        <picture>Images/Matrix/matrix_6.jpeg</picture>
+        <picture>Images/Matrix/matrix_7.jpeg</picture>
+        <picture>Images/Matrix/matrix_8.jpeg</picture>
+        <picture>Images/Matrix/matrix_9.jpeg</picture>
+        <picture>Images/Matrix/matrix_10.jpeg</picture>
+    </gallery>
+  </movie>
+
+  <movie id="8">
+    <name>Back to the Future</name>
+    <actor>Michael J. Fox</actor>
+    <description>"Back to the Future" is a 1985 science-fiction adventure film directed by Robert Zemeckis and produced by Steven Spielberg.
+                    The film stars Michael J. Fox as a teenager named Marty McFly,
+                    who accidentally travels back in time from 1985 to 1955 in a time-traveling DeLorean invented by his eccentric scientist friend,
+                    Dr. Emmett "Doc" Brown (played by Christopher Lloyd).
+                    In 1985, Marty is a high school student who dreams of becoming a famous rock musician,
+                    but is constantly frustrated by his family and his school's principal.
+                    One night, Doc Brown shows him his latest invention: a time machine built into a DeLorean car.
+                    When a group of Libyan terrorists arrive and shoot Doc, Marty escapes in the DeLorean and finds himself transported back to 1955.
+                    In 1955, Marty accidentally interferes with his parents' first meeting, putting his own existence in jeopardy.
+                    He then seeks the help of the younger Doc Brown to fix the DeLorean and get back to 1985.
+                    Along the way, Marty tries to reunite his parents and avoid being erased from history, while also dealing with the problems of being a time traveler in the past.
+                    As the clock ticks down, Marty must race against time to fix the time machine and get back to his own time before it's too late.
+                    With the help of Doc Brown, Marty manages to return to 1985 just in time to stop the terrorists and save his own future.
+                    In the end, Marty realizes that his adventures in the past have changed him and his family for the better, and he is grateful for the experience.</description>
+    <gallery>
+        <picture>Images/Back to future/future_1.jpeg</picture>
+        <picture>Images/Back to future/future_2.jpeg</picture>
+        <picture>Images/Back to future/future_3.jpeg</picture>
+        <picture>Images/Back to future/future_4.jpeg</picture>
+        <picture>Images/Back to future/future_5.jpeg</picture>
+        <picture>Images/Back to future/future_6.jpeg</picture>
+        <picture>Images/Back to future/future_7.jpeg</picture>
+        <picture>Images/Back to future/future_8.jpeg</picture>
+        <picture>Images/Back to future/future_9.jpeg</picture>
+        <picture>Images/Back to future/future_10.jpeg</picture>
+    </gallery>
+  </movie>
+  
+  <movie id="9">
+    <name>Aliens</name>
+    <actor>Sigourney Weaver</actor>
+    <description>The 1979 science fiction horror film "Alien" follows the crew of the commercial space tug Nostromo,
+                    who are awakened from cryosleep to investigate a distress signal on a nearby planet.
+                    After landing on the planet, they discover a derelict spacecraft and a chamber containing a large, fossilized alien creature.
+                    One of the crew members, Kane, is attacked by a facehugger creature, which attaches itself to his face and impregnates him with an alien embryo.
+                    The crew attempts to remove the creature from Kane's face, but it detaches and dies.
+                    Later, the alien embryo grows into a large, aggressive creature that hunts down and kills the crew members one by one.
+                    The surviving crew members, including the protagonist, Ripley, attempt to destroy the creature and escape the ship, but it proves to be incredibly resilient and intelligent.
+                    In the end, Ripley is the only surviving crew member and manages to destroy the creature by blasting it out of the airlock.
+                    The film ends with Ripley drifting in space in a shuttle, as she sets a course for Earth.</description>
+    <gallery>
+        <picture>Images/Aliens/aliens_1.jpeg</picture>
+        <picture>Images/Aliens/aliens_2.jpeg</picture>
+        <picture>Images/Aliens/aliens_3.jpeg</picture>
+        <picture>Images/Aliens/aliens_4.jpeg</picture>
+        <picture>Images/Aliens/aliens_5.jpeg</picture>
+        <picture>Images/Aliens/aliens_6.jpeg</picture>
+        <picture>Images/Aliens/aliens_7.jpeg</picture>
+        <picture>Images/Aliens/aliens_8.jpeg</picture>
+        <picture>Images/Aliens/aliens_9.jpeg</picture>
+        <picture>Images/Aliens/aliens_10.jpeg</picture>
+    </gallery>
+  </movie>
+</movies>

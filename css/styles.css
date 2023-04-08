@@ -1,0 +1,94 @@
+/* Sets the font family to Orbitron and the background color to a dark blue */
+body {
+    font-family: 'Orbitron', sans-serif;
+    background-color: #02242e;
+}
+
+/* Sets the font size for a navbar brand element to 24 pixels */
+.navbar-brand {
+    font-size: 24px;
+}
+
+/* Sets the background color to a slightly lighter blue and the text color to a shade of purple */
+.modal-header {
+    background-color: #01475c;
+    color: #fff;
+}
+
+/* Sets the width of an element with the ID "actors-filter" to 25% and adds a margin at the bottom of 30 pixels */
+#actors-filter {
+    width: 25% !important;
+    margin-bottom: 30px;
+}
+
+/* Adds a margin of 5 pixels to the top of elements with the IDs "email-error" and "password-error" */
+#email-error,
+#password-error {
+    margin-top: 5px;
+}
+
+/* Sets the height of an element with the class "card" inside an element with the ID "movieCards" to 100% */
+#movieCards .card {
+    height: 100%;
+}
+
+/* Sets the height of an image inside an element with the class "card" inside an element with the ID "movieCards" to 250 pixels and crops it to fit */
+#movieCards .card img {
+    height: 250px !important;
+    object-fit: cover;
+}
+
+/* Adds a margin at the bottom of 50 pixels and sets the text color to white */
+#movie-details {
+    margin-bottom: 50px;
+    color: #fff;
+}
+
+/* Sets the width to 100%, the height to 230 pixels, and crops it to fit */
+.card-img-top {
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+}
+
+/* Sets the width to 100%, the height to 200 pixels, and crops it to fit */
+.movie-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Aligns buttons horizontally with a gap of 10 pixels and adds a margin at the top of 20 pixels */
+.listing-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+/* Sets the booking modal to initially not be displayed and to cover the entire screen */
+#bookingModal {
+    display: none;
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow-y: hidden;
+}
+
+/* Sets the background color to the same dark blue as the body and the text color to white for the booking modal's title */
+#bookingModal h2 {
+    background-color: #02242e;
+    color: #fff;
+}
+
+/* Sets the background color to white, adds a margin of 5% on the top and bottom and centers it horizontally */
+#bookingModal .modal-content {
+    background-color: #fefefe;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%;
+}
